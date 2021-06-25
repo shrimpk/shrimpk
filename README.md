@@ -1,4 +1,13 @@
-### Hi there 👋
+## Coding
+
+### Web programming
+Using Node.JS, Express, EJS, MongoDB
+
+### Machine Learning
+Studying ML, not using any libraries.
+
+## Contacts
+Youtube: https://www.youtube.com/channel/UCGEJkF5nNRjP64ymqkGUsEw/videos
 
 <!--
 **shrimpk/shrimpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
