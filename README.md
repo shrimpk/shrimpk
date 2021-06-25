@@ -4,7 +4,7 @@
 Using Node.JS, Express, EJS, MongoDB
 
 ### Machine Learning
-Studying ML, not using any libraries.
+Studying ML, without using any libraries.
 
 ## Contacts
 Youtube: https://www.youtube.com/channel/UCGEJkF5nNRjP64ymqkGUsEw/videos
