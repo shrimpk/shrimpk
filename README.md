@@ -8,6 +8,8 @@ Studying ML, without using any libraries.
 
 ## Contacts
 Youtube: https://www.youtube.com/channel/UCGEJkF5nNRjP64ymqkGUsEw/videos
+Email: shrimp0818k@gmail.com
+
 
 <!--
 **shrimpk/shrimpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
