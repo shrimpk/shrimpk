@@ -1,3 +1,6 @@
+![Shrimpk's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrimpk&count_private=true)
+
+
 ## Coding
 
 ### Web programming
