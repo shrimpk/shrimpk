@@ -1,17 +1,4 @@
-![Shrimpk's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrimpk&count_private=true)
 
-
-## Coding
-
-### Web programming
-Using Node.JS, Express, EJS, MongoDB
-
-### Machine Learning
-Studying ML, without using any libraries.
-
-## Contacts
-Youtube: https://www.youtube.com/channel/UCGEJkF5nNRjP64ymqkGUsEw/videos
-Email: shrimp0818k@gmail.com
 
 
 <!--
